@@ -1,0 +1,14 @@
+WEEK EIGHT REPORT
+The first day of the week focused on learning about middlewares in Node, which are functions that can modify or enhance requests and responses in web applications.
+I learned how to use built-in and third-party middlewares, such as express.json.The second day introduced nodemailer, a module that allows sending emails from Node applications.
+I learned how to set up a transporter object, create email options, and send emails using nodemailer.
+I also learned how to handle errors and callbacks.The third day covered background services, which are tasks that run in the background without blocking the main thread.
+I learned how to communicate between the main process and the background services using events and messages.The fourth day taught EJS templating, which is a way of generating dynamic HTML pages using embedded JavaScript code.
+I learned how to render templates using express and pass data to them.
+
+The fifth day consisted of an assessment and a communication skills session. The assessment tested  my knowledge and skills on the nodemailer topic that was covered during the week. 
+
+
+The week eight of the Node study program was a productive and engaging week that covered various topics related to web development using Node. I gained valuable knowledge and skills that will help me create more complex and robust web applications in the future.
+I look forward to learning more in the coming weeks.
+
